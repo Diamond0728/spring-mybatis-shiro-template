@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://139.224.135.121:3306/j2eeproj?useSSL=false
+    url: jdbc:mysql://localhost:3306/j2eeproj?useSSL=false
     username: root
     password: rootroot
     thymeleaf:
